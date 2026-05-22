@@ -1,0 +1,21 @@
+# Claude Code internal
+.claude/
+
+# Output directories
+output*/
+!output/_generate_report.py
+!output/_extract_pdf.py
+!output/_extract_pdf_double.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

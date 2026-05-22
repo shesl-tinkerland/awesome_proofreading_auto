@@ -1,0 +1,133 @@
+{
+    "WBC": {
+        "name": "白细胞计数",
+        "unit": "×10⁹/L",
+        "normal_range": [4.0, 10.0],
+        "description": "成人正常参考范围"
+    },
+    "RBC": {
+        "name": "红细胞计数",
+        "unit": "×10¹²/L",
+        "normal_range_male": [4.0, 5.5],
+        "normal_range_female": [3.5, 5.0],
+        "description": "成人正常参考范围"
+    },
+    "Hb": {
+        "name": "血红蛋白",
+        "unit": "g/L",
+        "normal_range_male": [120, 160],
+        "normal_range_female": [110, 150],
+        "description": "成人正常参考范围"
+    },
+    "HCT": {
+        "name": "血细胞比容",
+        "unit": "%",
+        "normal_range_male": [40, 50],
+        "normal_range_female": [37, 48],
+        "description": "成人正常参考范围"
+    },
+    "PLT": {
+        "name": "血小板计数",
+        "unit": "×10⁹/L",
+        "normal_range": [100, 300],
+        "description": "成人正常参考范围"
+    },
+    "ALT": {
+        "name": "丙氨酸氨基转移酶",
+        "unit": "U/L",
+        "normal_range": [0, 40],
+        "description": "成人正常参考范围"
+    },
+    "AST": {
+        "name": "天冬氨酸氨基转移酶",
+        "unit": "U/L",
+        "normal_range": [0, 40],
+        "description": "成人正常参考范围"
+    },
+    "Cr": {
+        "name": "肌酐",
+        "unit": "μmol/L",
+        "normal_range_male": [44, 133],
+        "normal_range_female": [70, 106],
+        "description": "成人正常参考范围"
+    },
+    "BUN": {
+        "name": "血尿素氮",
+        "unit": "mmol/L",
+        "normal_range": [2.9, 8.2],
+        "description": "成人正常参考范围"
+    },
+    "eGFR": {
+        "name": "估算肾小球滤过率",
+        "unit": "mL/(min·1.73m²)",
+        "normal_range": [90, 120],
+        "description": "成人正常参考范围，低于60提示肾功能受损"
+    },
+    "TSH": {
+        "name": "促甲状腺激素",
+        "unit": "mIU/L",
+        "normal_range": [0.27, 4.2],
+        "description": "成人正常参考范围"
+    },
+    "FT3": {
+        "name": "游离三碘甲状腺原氨酸",
+        "unit": "pmol/L",
+        "normal_range": [3.1, 6.8],
+        "description": "成人正常参考范围"
+    },
+    "FT4": {
+        "name": "游离甲状腺素",
+        "unit": "pmol/L",
+        "normal_range": [12.0, 22.0],
+        "description": "成人正常参考范围"
+    },
+    "ESR": {
+        "name": "红细胞沉降率",
+        "unit": "mm/h",
+        "normal_range_male": [0, 15],
+        "normal_range_female": [0, 20],
+        "description": "魏氏法成人正常参考范围"
+    },
+    "CRP": {
+        "name": "C反应蛋白",
+        "unit": "mg/L",
+        "normal_range": [0, 10],
+        "description": "成人正常参考范围"
+    },
+    "PT": {
+        "name": "凝血酶原时间",
+        "unit": "秒",
+        "normal_range": [11.0, 14.0],
+        "description": "成人正常参考范围"
+    },
+    "APTT": {
+        "name": "活化部分凝血活酶时间",
+        "unit": "秒",
+        "normal_range": [25.0, 37.0],
+        "description": "成人正常参考范围"
+    },
+    "INR": {
+        "name": "国际标准化比值",
+        "unit": "",
+        "normal_range": [0.8, 1.2],
+        "description": "成人正常参考范围，抗凝治疗目标值2.0-3.0"
+    },
+    "LVEF": {
+        "name": "左心室射血分数",
+        "unit": "%",
+        "normal_range": [50, 70],
+        "description": "低于50%提示心功能减退"
+    },
+    "BNP": {
+        "name": "脑钠肽",
+        "unit": "pg/mL",
+        "normal_range": [0, 100],
+        "description": "高于100pg/mL提示心功能不全可能"
+    },
+    "NT-proBNP": {
+        "name": "N端脑钠肽前体",
+        "unit": "pg/mL",
+        "normal_range": [0, 300],
+        "description": "年龄<50岁: <300; 50-75岁: <450; >75岁: <900"
+    }
+}

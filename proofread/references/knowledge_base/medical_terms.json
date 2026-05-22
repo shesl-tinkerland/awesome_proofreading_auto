@@ -1,0 +1,126 @@
+{
+    "红细胞沉降率": {
+        "english": "erythrocyte sedimentation rate",
+        "abbreviation": "ESR"
+    },
+    "C反应蛋白": {
+        "english": "C-reactive protein",
+        "abbreviation": "CRP"
+    },
+    "活化部分凝血活酶时间": {
+        "english": "activated partial thromboplastin time",
+        "abbreviation": "APTT"
+    },
+    "凝血酶原时间": {
+        "english": "prothrombin time",
+        "abbreviation": "PT"
+    },
+    "国际标准化比值": {
+        "english": "international normalized ratio",
+        "abbreviation": "INR"
+    },
+    "白细胞": {
+        "english": "white blood cell",
+        "abbreviation": "WBC"
+    },
+    "红细胞": {
+        "english": "red blood cell",
+        "abbreviation": "RBC"
+    },
+    "血红蛋白": {
+        "english": "hemoglobin",
+        "abbreviation": "Hb"
+    },
+    "血细胞比容": {
+        "english": "hematocrit",
+        "abbreviation": "HCT"
+    },
+    "血小板": {
+        "english": "platelet",
+        "abbreviation": "PLT"
+    },
+    "脑钠肽": {
+        "english": "brain natriuretic peptide",
+        "abbreviation": "BNP"
+    },
+    "N端脑钠肽前体": {
+        "english": "N-terminal pro-brain natriuretic peptide",
+        "abbreviation": "NT-proBNP"
+    },
+    "左心室射血分数": {
+        "english": "left ventricular ejection fraction",
+        "abbreviation": "LVEF"
+    },
+    "丙氨酸氨基转移酶": {
+        "english": "alanine aminotransferase",
+        "abbreviation": "ALT"
+    },
+    "天冬氨酸氨基转移酶": {
+        "english": "aspartate aminotransferase",
+        "abbreviation": "AST"
+    },
+    "肌酐": {
+        "english": "creatinine",
+        "abbreviation": "Cr"
+    },
+    "血尿素氮": {
+        "english": "blood urea nitrogen",
+        "abbreviation": "BUN"
+    },
+    "估算肾小球滤过率": {
+        "english": "estimated glomerular filtration rate",
+        "abbreviation": "eGFR"
+    },
+    "促甲状腺激素": {
+        "english": "thyroid stimulating hormone",
+        "abbreviation": "TSH"
+    },
+    "三碘甲状腺原氨酸": {
+        "english": "triiodothyronine",
+        "abbreviation": "T3"
+    },
+    "甲状腺素": {
+        "english": "thyroxine",
+        "abbreviation": "T4"
+    },
+    "感染性心内膜炎": {
+        "english": "infective endocarditis",
+        "abbreviation": null
+    },
+    "结核性胸膜炎": {
+        "english": "tuberculous pleurisy",
+        "abbreviation": null
+    },
+    "瓣膜性心脏病": {
+        "english": "valvular heart disease",
+        "abbreviation": null
+    },
+    "心力衰竭": {
+        "english": "heart failure",
+        "abbreviation": "HF"
+    },
+    "心肌梗死": {
+        "english": "myocardial infarction",
+        "abbreviation": "MI"
+    },
+    "心房颤动": {
+        "english": "atrial fibrillation",
+        "abbreviation": "AF"
+    },
+    "高血压": {
+        "english": "hypertension",
+        "abbreviation": "HTN"
+    },
+    "糖尿病": {
+        "english": "diabetes mellitus",
+        "abbreviation": "DM"
+    },
+    "冠心病": {
+        "english": "coronary heart disease",
+        "abbreviation": "CHD"
+    },
+    "慢性阻塞性肺疾病": {
+        "english": "chronic obstructive pulmonary disease",
+        "abbreviation": "COPD"
+    }
+}

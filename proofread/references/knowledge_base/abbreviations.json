@@ -1,0 +1,190 @@
+{
+    "ESR": {
+        "english": "erythrocyte sedimentation rate",
+        "chinese": "红细胞沉降率"
+    },
+    "CRP": {
+        "english": "C-reactive protein",
+        "chinese": "C反应蛋白"
+    },
+    "APTT": {
+        "english": "activated partial thromboplastin time",
+        "chinese": "活化部分凝血活酶时间"
+    },
+    "PT": {
+        "english": "prothrombin time",
+        "chinese": "凝血酶原时间"
+    },
+    "INR": {
+        "english": "international normalized ratio",
+        "chinese": "国际标准化比值"
+    },
+    "WBC": {
+        "english": "white blood cell",
+        "chinese": "白细胞"
+    },
+    "RBC": {
+        "english": "red blood cell",
+        "chinese": "红细胞"
+    },
+    "Hb": {
+        "english": "hemoglobin",
+        "chinese": "血红蛋白"
+    },
+    "HCT": {
+        "english": "hematocrit",
+        "chinese": "血细胞比容"
+    },
+    "PLT": {
+        "english": "platelet",
+        "chinese": "血小板"
+    },
+    "BNP": {
+        "english": "brain natriuretic peptide",
+        "chinese": "脑钠肽"
+    },
+    "NT-proBNP": {
+        "english": "N-terminal pro-brain natriuretic peptide",
+        "chinese": "N端脑钠肽前体"
+    },
+    "LVEF": {
+        "english": "left ventricular ejection fraction",
+        "chinese": "左心室射血分数"
+    },
+    "ALT": {
+        "english": "alanine aminotransferase",
+        "chinese": "丙氨酸氨基转移酶"
+    },
+    "AST": {
+        "english": "aspartate aminotransferase",
+        "chinese": "天冬氨酸氨基转移酶"
+    },
+    "Cr": {
+        "english": "creatinine",
+        "chinese": "肌酐"
+    },
+    "BUN": {
+        "english": "blood urea nitrogen",
+        "chinese": "血尿素氮"
+    },
+    "eGFR": {
+        "english": "estimated glomerular filtration rate",
+        "chinese": "估算肾小球滤过率"
+    },
+    "TSH": {
+        "english": "thyroid stimulating hormone",
+        "chinese": "促甲状腺激素"
+    },
+    "T3": {
+        "english": "triiodothyronine",
+        "chinese": "三碘甲状腺原氨酸"
+    },
+    "T4": {
+        "english": "thyroxine",
+        "chinese": "甲状腺素"
+    },
+    "CEA": {
+        "english": "carcinoembryonic antigen",
+        "chinese": "癌胚抗原"
+    },
+    "AFP": {
+        "english": "alpha-fetoprotein",
+        "chinese": "甲胎蛋白"
+    },
+    "CA125": {
+        "english": "cancer antigen 125",
+        "chinese": "癌抗原125"
+    },
+    "CA19-9": {
+        "english": "carbohydrate antigen 19-9",
+        "chinese": "糖类抗原19-9"
+    },
+    "PSA": {
+        "english": "prostate specific antigen",
+        "chinese": "前列腺特异性抗原"
+    },
+    "HBsAg": {
+        "english": "hepatitis B surface antigen",
+        "chinese": "乙型肝炎表面抗原"
+    },
+    "HBsAb": {
+        "english": "hepatitis B surface antibody",
+        "chinese": "乙型肝炎表面抗体"
+    },
+    "HBeAg": {
+        "english": "hepatitis B e antigen",
+        "chinese": "乙型肝炎e抗原"
+    },
+    "HBeAb": {
+        "english": "hepatitis B e antibody",
+        "chinese": "乙型肝炎e抗体"
+    },
+    "HBcAb": {
+        "english": "hepatitis B core antibody",
+        "chinese": "乙型肝炎核心抗体"
+    },
+    "HIV": {
+        "english": "human immunodeficiency virus",
+        "chinese": "人类免疫缺陷病毒"
+    },
+    "PCR": {
+        "english": "polymerase chain reaction",
+        "chinese": "聚合酶链反应"
+    },
+    "CT": {
+        "english": "computed tomography",
+        "chinese": "计算机断层扫描"
+    },
+    "MRI": {
+        "english": "magnetic resonance imaging",
+        "chinese": "磁共振成像"
+    },
+    "ECG": {
+        "english": "electrocardiogram",
+        "chinese": "心电图"
+    },
+    "EEG": {
+        "english": "electroencephalogram",
+        "chinese": "脑电图"
+    },
+    "ICU": {
+        "english": "intensive care unit",
+        "chinese": "重症监护病房"
+    },
+    "CPR": {
+        "english": "cardiopulmonary resuscitation",
+        "chinese": "心肺复苏"
+    },
+    "COPD": {
+        "english": "chronic obstructive pulmonary disease",
+        "chinese": "慢性阻塞性肺疾病"
+    },
+    "DM": {
+        "english": "diabetes mellitus",
+        "chinese": "糖尿病"
+    },
+    "HTN": {
+        "english": "hypertension",
+        "chinese": "高血压"
+    },
+    "CHD": {
+        "english": "coronary heart disease",
+        "chinese": "冠心病"
+    },
+    "MI": {
+        "english": "myocardial infarction",
+        "chinese": "心肌梗死"
+    },
+    "AF": {
+        "english": "atrial fibrillation",
+        "chinese": "心房颤动"
+    },
+    "TIA": {
+        "english": "transient ischemic attack",
+        "chinese": "短暂性脑缺血发作"
+    },
+    "CVA": {
+        "english": "cerebrovascular accident",
+        "chinese": "脑血管意外"
+    }
+}
