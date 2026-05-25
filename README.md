@@ -9,6 +9,7 @@
 [![Codex CLI](https://img.shields.io/badge/OpenAI%20Codex-supported-412991)](https://github.com/openai/codex)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-supported-orange)](https://github.com/open-claw/open-claw)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
+[![Try on Socialistic](https://socialistic.ai/api/embed/awesome-proofreading-auto-f44f43)](https://socialistic.ai/zh/skill/awesome-proofreading-auto-f44f43?utm_source=github&utm_medium=readme&utm_campaign=20260524-copywriting-doctor-skills&utm_content=badge)
 
 [功能特性](#-功能特性) · [快速开始](#-快速开始) · [使用指南](#-使用指南) · [架构设计](#-架构设计) · [迁移到其他领域](#-迁移到其他领域)
 
@@ -59,6 +60,10 @@
 - **多格式支持**：`.docx`、`.doc`、`.pdf`、`.txt`、`.md`
 
 ## 快速开始
+
+### 在线试用
+
+如果只是想先看审稿效果，可以直接打开上面的 Socialistic 入口，上传 Word/PDF 医学稿件并选择单栏/双栏布局与校对力度，无需先安装本地依赖或配置 API key。
 
 ### 支持的 Agent 平台
 
